@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sealeddefendant.github.io/al-folio/sitemap.xml
+Sitemap: https://sealeddefendant.github.io/ted-snyder-personal-website/al-folio/sitemap.xml
